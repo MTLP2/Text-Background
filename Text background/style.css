@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@500&display=swap');
+
+
+body{
+    margin: 0;
+    padding: 0;
+    padding-left: 400px;
+    max-width: 1020px;
+    height: 3000px;
+    display: center;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    background-color: rgb(117, 117, 117);
+}
+
+p{
+    font-family: 'League Spartan', sans-serif;
+
+    color: rgb(255, 0, 0);
+    line-height: 10px;
+    font-size: 10px;
+    background: url("./378-3789132_hoy-es-el-da-internacional-de-son-goku.png");
+    background-attachment: center;
+    -webkit-background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-clip: text;
+    background-attachment: center;
+    -webkit-text-fill-color: rgba(117, 117, 117, 0.1);
+}
+
+
