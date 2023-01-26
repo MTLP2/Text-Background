@@ -1,0 +1,37 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #1b263b;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.card{
+    
+    margin-top: 300px;
+    padding: 20px;
+    font-size: 32px;
+    background-color: white;
+    width: 300px;
+    border-radius: 40px;
+    display: flex;
+    text-align: center;
+    
+}
+
+.render{
+    margin-top: 20px;
+    width: 300px;
+    height: 200px;
+    background-image: url("./a78d99075f1e2bb530d34d3ffdba0c9f.gif");
+}
+
+.title{
+    background-image: url("./a78d99075f1e2bb530d34d3ffdba0c9f.gif");
+    background-clip: text;
+    background-size: cover;
+    -webkit-background-clip: text;
+    color: transparent;
+   
+}
